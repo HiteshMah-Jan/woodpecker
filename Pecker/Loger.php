@@ -16,6 +16,11 @@
  * @version         $Id: Loger.php 11 2013-09-16 03:27:55Z cfc4n $
  */
 
+const phoneNumber = "rgekjrng kjrgnjke";
+const salary ="serger";
+const stripeAcct = 12123;
+const username = "asfweferg.com";
+
 class Pecker_Loger
 {
     protected $result;
